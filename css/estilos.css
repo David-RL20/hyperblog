@@ -19,7 +19,7 @@ body {
     font-size: 40px;
 }
 #cabecera__img {
-    size: 30px;
+    size: 29 px;
 }
 
 #cabecera #tagline {
@@ -52,7 +52,7 @@ body {
 }
 
 #footer {
-    background-color: #ff3cac;
+    background-color: #d13b90;
     background-image: linear-gradient(
         270deg,
         #ff3cac 0%,
